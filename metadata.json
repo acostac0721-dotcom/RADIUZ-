@@ -1,0 +1,10 @@
+{
+  "name": "Remix Radius — Instant Proximity Dating",
+  "description": "Real-time proximity matching and instant local meetups for singles in the same immediate neighborhood.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
